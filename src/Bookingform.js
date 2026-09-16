@@ -1,12 +1,6 @@
 import React, { useState, useEffect } from "react";
 
 // Exercise 8: Demo about Form Control (React controlled components + Bootstrap 5)
-// Lưu ý Bootstrap 5:
-//  - .form-group  ->  .mb-3
-//  - <label className="form-label">
-//  - <select className="form-select"> (thay cho .custom-select)
-//  - input-group không cần .input-group-prepend / .input-group-append nữa
-//  - .is-invalid + .invalid-feedback vẫn giữ nguyên
 
 const INITIAL_VALUES = {
   firstname: "",
