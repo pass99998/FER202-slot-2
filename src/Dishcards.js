@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
 
 // Exercise 7: Demo about Cards Column (Bootstrap 5)
-// Bootstrap 5 đã BỎ class .card-columns của Bootstrap 4.
-// Thay thế bằng grid: .row .row-cols-* .g-4  (hoặc CSS columns nếu muốn masonry).
 
 const DISH_DATA = [
   {
