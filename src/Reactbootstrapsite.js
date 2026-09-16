@@ -15,8 +15,7 @@ import {
 } from "react-bootstrap";
 
 // Exercise 10: Demo about React-Bootstrap
-// Cài đặt: npm install react-bootstrap bootstrap
-// Import CSS ở src/index.js: import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const MENU = [
   {
